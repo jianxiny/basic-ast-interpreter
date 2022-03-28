@@ -4,6 +4,12 @@
 
 ## The core concept is Expression, which means return a value
 
+### RUN TEST
+
+```
+node __tests__/run.js
+```
+
 ### EXAMPLES:
 
 #### variables
